@@ -1,0 +1,5 @@
+segment,age,annual_income,spending_score,purchase_frequency,recency_days,avg_order_value,customer_count,pct_of_base,segment_label
+0,51.9,74.7,81.2,21.5,6.9,130.3,150,25.0,Loyal Premium Customers
+1,34.4,59.8,35.0,3.5,70.2,60.1,150,25.0,At-Risk / Churn-Prone
+2,45.3,110.6,55.1,7.9,24.6,221.1,150,25.0,Affluent Occasional Shoppers
+3,27.1,45.6,78.4,17.3,8.3,88.0,150,25.0,Young High-Value Spenders
